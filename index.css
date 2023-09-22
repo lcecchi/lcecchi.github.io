@@ -1,0 +1,10 @@
+h1 {text-align: center;}
+body {background-color: #fffff4; margin-right:10%; margin-left:10%}
+hr {color: #ffeabc;} 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
