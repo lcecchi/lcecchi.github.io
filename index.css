@@ -7,3 +7,12 @@ hr {color: #ffeabc;}
   margin-right: auto;
 }
 footer {text-align:center;}
+.research-diagram {
+  width: 50%;
+}
+
+@media (max-width: 600px) {
+  .research-diagram {
+    width: 100%;
+  }
+}
